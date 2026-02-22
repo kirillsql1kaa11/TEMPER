@@ -11,6 +11,11 @@
 
 > Безопасность: по умолчанию включён dry-run и удаление только старше 1 дня.
 
+## 📦 Download
+
+➡ **[Download TempCleaner for Windows](https://github.com/<kirillsql1kaa11>/temp-cleaner/releases/latest)**
+
+Просто распакуй и запусти `TempCleaner.exe`.
 
 ## Запуск (GUI)
 ```powershell
