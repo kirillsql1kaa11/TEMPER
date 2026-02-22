@@ -1,0 +1,5 @@
+[project]
+name = "temp-cleaner"
+version = "0.1.0"
+description = "TempCleaner — simple Windows temp cleanup utility"
+requires-python = ">=3.10"
